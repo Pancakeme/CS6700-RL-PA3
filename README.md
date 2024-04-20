@@ -5,6 +5,7 @@ We present a set of experiments by performing SMDP Q Learning and Intra Option Q
 
 ![Taxi-v3](taxi.png)
 
+- The report can be found - [here](Report.pdf).
 - The code for these experiments can be found - [here](code_final.ipynb).
 - The reward plots - [here](Reward_Plots).
 - The environment rendering figures - [here](Rendering_Figures).
